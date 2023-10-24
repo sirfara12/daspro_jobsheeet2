@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class arraybilangan28 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int [] bil = new int[4];
+
         bil[0] = 5;
         bil[1] = 13;
         bil[2] = -7;
