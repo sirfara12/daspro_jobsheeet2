@@ -7,6 +7,7 @@ public class arraynilairata28 {
         int[] nilaimhs = new int[10];
         double total = 0;
         double ratarata;
+
         
         for (int i = 0; i < nilaimhs.length; i++) {
             System.out.print("masukkan nilai mahasiswa ke-"+(i+1)+" : ");
